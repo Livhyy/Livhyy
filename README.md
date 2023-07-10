@@ -1,5 +1,5 @@
-LUA DEVELOPER, UI DEVELOPER
+Hi, I'm livhy. On a daily basis, I write scripts for fivem and write websites
 
 <!---
-Siema jak coś to zapraszam na serwer HopeRP https://discord.gg/TRhHHvduvu ELO
+HopeRP https://discord.gg/TRhHHvduvu
 --->
